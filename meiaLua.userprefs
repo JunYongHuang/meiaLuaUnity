@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\inimigos.cs">
+    <Files>
+      <File FileName="Assets\scripts\player.cs" Line="37" Column="119" />
+      <File FileName="Assets\scripts\enemy.cs" Line="10" Column="23" />
+      <File FileName="Assets\scripts\inimigos.cs" Line="67" Column="54" />
+      <File FileName="Assets\scripts\megadriveColider.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\instaciador.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\water.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\cameraFollow.cs" Line="23" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
